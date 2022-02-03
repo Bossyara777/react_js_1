@@ -48,7 +48,8 @@
 [Практика. Часть 6](https://bossyara777.github.io/Modul-5-Chast-6/ "Моя готовая домашка") - Верстка блока с ценами.
 
 Модуль 6
-[Урок React-JS-1](https://bossyara777.react_js_1/Urok-19/ "Моя готовая домашка") - Анимация на CSS3.
+[Урок React-JS-1](https://bossyara777.react_js_1.io/Urok-19/ "Моя готовая домашка") - React-JS-1.
+
 [Урок 19](https://bossyara777.github.io/Urok-19/ "Моя готовая домашка") - Анимация на CSS3.
 
 [Практика. Часть 7](https://bossyara777.github.io/Modul-5-Chast-7/ "Моя готовая домашка") - Верстка блока с отзывами.
